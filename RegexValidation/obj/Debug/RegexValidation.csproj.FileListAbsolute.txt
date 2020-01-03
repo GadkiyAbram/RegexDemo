@@ -1,0 +1,7 @@
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\bin\Debug\RegexValidation.exe.config
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\bin\Debug\RegexValidation.exe
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\bin\Debug\RegexValidation.pdb
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.csprojAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.exe
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.pdb
