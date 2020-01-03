@@ -18,19 +18,21 @@ namespace RegexValidation
             this.pattern = inputPattern;
         }
 
-        public bool Validate()
+        public bool Validate(string what)
         {
             bool output = true;
+            string resultSuccess = what + " - Success";
+            string resultFucked = what + " - You're fucked";
 
             Match match = Regex.Match(pattern, inputString);
 
             if (match.Success)
             {
-                Console.WriteLine("Success");
+                Console.WriteLine(resultSuccess);
             }
             else
             {
-                Console.WriteLine("You're fucked");
+                Console.WriteLine(resultFucked);
             }
 
             return output;

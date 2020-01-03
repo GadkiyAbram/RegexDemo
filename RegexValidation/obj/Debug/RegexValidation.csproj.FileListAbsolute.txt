@@ -5,3 +5,4 @@ C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidatio
 C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.csproj.CoreCompileInputs.cache
 C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.exe
 C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.pdb
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\RegexValidation\RegexValidation\obj\Debug\RegexValidation.sourcelink.json
